@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>main page</title>
 </head>
 <body>
-<%@ include file="header.jsp" %>
-welcome ,user
+<%@  include file="header.jsp" %>
+<% out.print("welcome to main page") ;%>
 </body>
 </html>

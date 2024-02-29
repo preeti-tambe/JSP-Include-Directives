@@ -4,10 +4,11 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
+<title>Header Page</title>
 </head>
 <body>
-< img src= ""  alt="this is the header image"
-
+<a href="login">Login</a>
+<a href="profile">profile</a>
+<a href="logout">logout</a>
 </body>
 </html>
